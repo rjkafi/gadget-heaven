@@ -1,0 +1,112 @@
+[
+    {
+        "product_id": 1,
+        "product_title": "Gaming Laptop X100",
+        "product_image": "https://i.ibb.co.com/72SMBpq/th.jpg",
+        "category": "Laptops",
+        "price": 1200,
+        "description": "A high-performance gaming laptop with the latest graphics card.",
+        "Specification": ["16GB RAM", "512GB SSD", "Intel i7 Processor"],
+        "availability": true,
+        "rating": 4.5
+    },
+    {
+        "product_id": 2,
+        "product_title": "UltraBook Pro 2024",
+        "product_image": "https://i.ibb.co.com/pZXT2pj/th.jpg",
+        "category": "Laptops",
+        "price": 1500,
+        "description": "A lightweight ultrabook with powerful performance for work and travel.",
+        "Specification": ["8GB RAM", "256GB SSD", "Intel i5 Processor"],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": 3,
+        "product_title": "Creative Laptop C-Series",
+        "product_image": "https://i.ibb.co.com/4VZJ1w1/th-1.jpg",
+        "category": "Laptops",
+        "price": 1350,
+        "description": "Designed for content creators with high-resolution display and fast CPU.",
+        "Specification": ["16GB RAM", "1TB SSD", "AMD Ryzen 7 Processor"],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "product_id": 4,
+        "product_title": "Laptop Prime 15",
+        "product_image": "https://i.ibb.co.com/h7PTGQQ/th-2.jpg",
+        "category": "Laptops",
+        "price": 1100,
+        "description": "Reliable laptop for everyday use with excellent battery life.",
+        "Specification": ["8GB RAM", "512GB SSD", "Intel i5 Processor"],
+        "availability": true,
+        "rating": 4.3
+    },
+    {
+        "product_id": 5,
+        "product_title": "Pro Max Laptop 17",
+        "product_image": "https://i.ibb.co.com/D7WgpGz/th.jpg",
+        "category": "Laptops",
+        "price": 1600,
+        "description": "Professional-grade laptop with extensive multitasking capabilities.",
+        "Specification": ["32GB RAM", "1TB SSD", "Intel i9 Processor"],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": 6,
+        "product_title": "Eco Laptop E15",
+        "product_image": "https://i.ibb.co.com/jbY0FKr/th-1.jpg",
+        "category": "Laptops",
+        "price": 850,
+        "description": "Budget-friendly laptop for basic computing tasks.",
+        "Specification": ["4GB RAM", "128GB SSD", "Intel Celeron Processor"],
+        "availability": false,
+        "rating": 3.9
+    },
+    {
+        "product_id": 7,
+        "product_title": "Smartphone Galaxy Z5",
+        "product_image": "https://i.ibb.co.com/GvzCj3K/th.jpg",
+        "category": "Smartphones",
+        "price": 750,
+        "description": "High-end smartphone with a stunning AMOLED display.",
+        "Specification": ["8GB RAM", "128GB Storage", "Triple Camera"],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": 8,
+        "product_title": "Smartphone Lite 2024",
+        "product_image": "https://i.ibb.co.com/mBJpnhC/th-1.jpg",
+        "category": "Smartphones",
+        "price": 500,
+        "description": "Affordable smartphone with essential features and long battery life.",
+        "Specification": ["4GB RAM", "64GB Storage", "Dual Camera"],
+        "availability": true,
+        "rating": 4.1
+    },
+    {
+        "product_id": 9,
+        "product_title": "Smart Watch Series X",
+        "product_image": "https://i.ibb.co.com/C6qdCZ9/th.jpg",
+        "category": "Smart Watches",
+        "price": 300,
+        "description": "Stylish smartwatch with health and fitness tracking features.",
+        "Specification": ["Heart Rate Monitor", "GPS", "Water Resistant"],
+        "availability": true,
+        "rating": 4.4
+    },
+    {
+        "product_id": 10,
+        "product_title": "Smart Watch Active",
+        "product_image": "https://i.ibb.co.com/c6v2KqH/th-1.jpg",
+        "category": "Smart Watches",
+        "price": 270,
+        "description": "Smartwatch designed for active individuals with multi-sport modes.",
+        "Specification": ["Sleep Tracking", "Workout Modes", "5ATM Water Resistant"],
+        "availability": false,
+        "rating": 4.2
+    }
+]
